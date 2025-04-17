@@ -5,3 +5,4 @@ Youtube tutorial walkthrough - https://www.youtube.com/watch?v=0sOvCWFmrtA&t=347
 
 ## Progress
 Ended at 1:52:29 on Wed April 16th
+Ended at 2:25:14 on Thurs April 17th
