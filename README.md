@@ -1,4 +1,4 @@
-# Free API 
+# API From Scratch
 
 ## Overview
 Youtube tutorial walkthrough - https://www.youtube.com/watch?v=0sOvCWFmrtA&t=3479s
